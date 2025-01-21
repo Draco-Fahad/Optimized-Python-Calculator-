@@ -26,7 +26,7 @@ Use the "Clear" button to reset the input fields and result.
 # Contribution
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are always welcome!
 
-# A1cknowledgments
+# Acknowledgments
 Special thanks to the CustomTkinter library for providing a modern GUI framework.
 
 # Preview
