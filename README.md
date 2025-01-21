@@ -28,3 +28,7 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 # A1cknowledgments
 Special thanks to the CustomTkinter library for providing a modern GUI framework.
+
+# Preview
+![image](https://github.com/user-attachments/assets/2391bca4-81b4-4bfe-9e2f-b862fd6bdd35)
+
